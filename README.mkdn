@@ -18,12 +18,7 @@ the correct caf version for you.
 To initialize your local repository using the SlimLP trees, use this command:
 
 
-for google, exynos and non qcom devices:
-
-	repo init -u git://github.com/SlimRoms/platform_manifest.git -b lp5.0
-
-
-for qcom devices which are using CodeAuroraForum trees:
+for ALL devices:
 
 	repo init -u git://github.com/SlimRoms/platform_manifest.git -b lp5.0-caf
 
